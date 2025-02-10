@@ -1,0 +1,89 @@
+body
+{
+  background-color: lightblue;
+}
+
+p
+{
+  font-size: 25px;
+  line-height: 1.5;
+}
+
+.header
+{
+  font-size: 20px;
+}
+
+.navigation-bar
+{
+  display: flex;
+  margin-top: 30px;  
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+.navigation-option
+{
+  flex: 1;
+}
+
+.navigation-button
+{
+  font-size: 20px;
+  font-style: italic;
+  padding: 10px 73px;
+  margin-right: 3px;
+  white-space: nowrap;
+  border-style: none;
+  background: transparent;
+}
+
+.navigation-button:hover
+{
+  cursor: poiner;
+  font-size: 22px;
+  font-weight: bold;
+  transition-delay: 0.2s;
+}
+
+.navigation-link
+{
+  color: black;
+  text-decoration: none;
+  font-family: Roboto , serif;
+}
+
+.pic
+{
+  height: 500px;
+  width: 400px;
+}
+
+.resume-heading
+{
+  color: white;
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 0px;
+}
+
+.about-me-heading
+{
+  font-family: "Kumar One" , serif;
+  font-size: 40px;
+  font-weight: 100px;
+}
+
+.personality-trait-pic
+{
+  margin-left: 0px;
+  border-style: solid;
+  height: 400px;
+  width: 600px;
+}
+
+.about-me-pic
+{
+  height: 350px;
+  width: 400px;
+}

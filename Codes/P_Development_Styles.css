@@ -1,0 +1,46 @@
+body
+{
+  background-color: lightblue;
+}
+
+p
+{
+  font-size: 25px;
+  line-height: 1.5;
+}
+
+.navigation-link
+{
+  text-decoration: none;
+  color: black;
+}
+
+.book-title
+{
+  font-family: Kumar One, serif;
+  text-align: center;
+  margin-top: 30px;
+  font-style: bold;
+  font-size: 40px;
+}
+
+.p-development-table
+{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.p-development-table
+{
+  border: 1;
+  border-color: white;
+  border-style: solid;
+  margin-top: 20px;
+}
+
+.chapter
+{
+  width: 30px; 
+  font-size: 30px;
+}
